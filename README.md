@@ -334,7 +334,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Projects
 
-- **[notify_me.sh](https://github.com/original/notify_me)** - The original bash script that inspired this MCP server
+- **[notify_me.sh](https://github.com/thesammykins/notify_me)** - The original bash script that inspired this MCP server
 - **[Model Context Protocol](https://modelcontextprotocol.io)** - Official MCP documentation
 - **[Discord Webhooks](https://discord.com/developers/docs/resources/webhook)** - Discord webhook documentation
 - **[Slack Webhooks](https://api.slack.com/messaging/webhooks)** - Slack incoming webhook documentation

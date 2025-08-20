@@ -8,6 +8,10 @@
 
 A powerful Model Context Protocol (MCP) server that provides webhook notification capabilities to AI agents and LLM applications. Send rich notifications to Discord and Slack with automatic service detection, retry logic, and comprehensive security features.
 
+<a href="https://glama.ai/mcp/servers/@thesammykins/notifyme_mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@thesammykins/notifyme_mcp/badge" alt="notify_me_mcp MCP server" />
+</a>
+
 ## ✨ Features
 
 - 🔧 **Three MCP Tools**: `send_notification`, `validate_webhook`, `list_services`
